@@ -86,8 +86,14 @@ Depending on the company, that might include:
 * Product adoption
 * Forecast versus plan
 * Budget versus actual
-* Segment performance
+* Segment and company-size performance
+* Industry performance
+* Customer count by segment and industry
+* Total and average ARR by company size
+* Total and average ARR by industry
+* Acquisition and marketing spend by company size or segment
 * Geographic performance
+* Revenue concentration and customer mix
 
 AI can help consolidate information across systems, identify meaningful changes, and surface anomalies that deserve attention.
 
