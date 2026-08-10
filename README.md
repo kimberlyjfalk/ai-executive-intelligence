@@ -23,8 +23,9 @@ It's to help leadership understand:
 
 **What happened? Why did it happen? What does it mean? What is likely to happen next? What should we do? What decisions need to be made?**
 
-## The Problem
+![From Business Signals to Executive Decisions](ai-executive-intelligence-system.png)
 
+## The Problem
 Executive reporting often starts with the data that is easiest to measure rather than the questions leadership actually needs answered.
 
 Marketing reports on leads, spend, and pipeline.
